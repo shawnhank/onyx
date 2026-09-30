@@ -259,7 +259,7 @@ numpy==2.4.1
     #   matplotlib
     #   pandas-stubs
     #   voyageai
-oauthlib==3.2.2
+oauthlib==4.0.0
     # via
     #   kubernetes
     #   requests-oauthlib

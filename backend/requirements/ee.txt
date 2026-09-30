@@ -169,7 +169,7 @@ multidict==6.7.0
     #   yarl
 numpy==2.4.1
     # via voyageai
-oauthlib==3.2.2
+oauthlib==4.0.0
     # via
     #   kubernetes
     #   requests-oauthlib
