@@ -147,7 +147,7 @@ chevron==0.14.0
     # via braintrust
 chonkie==1.0.10
     # via onyx
-claude-agent-sdk==0.1.19
+claude-agent-sdk==0.2.121
     # via onyx
 click==8.3.1
     # via

@@ -78,7 +78,7 @@ charset-normalizer==3.4.4
     # via requests
 classify-imports==4.2.0
     # via reorder-python-imports-black
-claude-agent-sdk==0.1.19
+claude-agent-sdk==0.2.121
     # via onyx
 click==8.3.1
     # via
