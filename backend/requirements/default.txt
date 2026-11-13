@@ -591,7 +591,7 @@ openpyxl==3.0.10
     #   onyx
 opensearch-py==3.0.0
     # via onyx
-opentelemetry-api==1.39.1
+opentelemetry-api==1.45.2
     # via
     #   ddtrace
     #   fastmcp
